@@ -4,4 +4,4 @@
 
 Currently, only 9 loadscreens are supported.
 
-![alt text][screenshot]
+![alt text](screenshot.png)
